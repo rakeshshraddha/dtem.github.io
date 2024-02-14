@@ -1,0 +1,20 @@
+.main { 
+    text-align: center; 
+    background-color: rgba(6, 0, 128, 0.256);
+} 
+
+/* .marq { 
+    padding-top: 10px; 
+    padding-bottom: 10px; 
+}  */
+
+.geek1 { 
+    font-size: 3rem; 
+    font-weight: bold; 
+    color: white; 
+    padding-bottom: 5px;
+    font-family: 'Honk', system-ui; 
+}
+.center{
+    display: flex;
+}
